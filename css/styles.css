@@ -210,6 +210,7 @@ padding-bottom: 200px;
     padding: 10px 32px;
     border-radius: 4px;
     min-width: 216px;
+    border: none;
 }
 
 .button:hover,
